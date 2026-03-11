@@ -1,3 +1,3 @@
 # portifolio
 
-Projeto dedicado sobre meus conhecimentos
+Projeto criado para praticar de HTML e CSS 
